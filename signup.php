@@ -25,5 +25,6 @@ require 'database.php';
         <input type="password" name="password" placeholder="Contraseña">
         <input type="password" name="Confirm_password" placeholder="Confirma Contraseña">
         <input type="submit" value="Ingresar">
+        <p></p>
 </body>
 </html>
